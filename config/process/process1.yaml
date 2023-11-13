@@ -1,3 +1,5 @@
-use_columns: 
-  - col1
-  - col2
+batch_size: 32
+img_height: 180
+img_width: 180
+seed: 123
+no_classes: 5

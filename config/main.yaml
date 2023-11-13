@@ -8,7 +8,7 @@ defaults:
   - model: model1
   - _self_
 
-data:
-  raw: data/raw/sample.csv
-  processed: data/processed/processed.csv
-  final: data/final/final.csv
+data_train:
+  raw_train: ../data/raw/train
+  processed_train: ../data/processed/train/
+  final_train: ../data/final/train/
